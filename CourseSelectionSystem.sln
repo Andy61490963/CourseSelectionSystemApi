@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseSelectionSystem", "CourseSelectionSystem\CourseSelectionSystem.csproj", "{95A9F26D-1D4A-4108-B1C5-8D989EB4ED70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseSelectionSystem.ApiTests", "CourseSelectionSystem.ApiTests\CourseSelectionSystem.ApiTests.csproj", "{AE01EB58-1F21-445E-80A8-EA8BC58E93F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A9F26D-1D4A-4108-B1C5-8D989EB4ED70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A9F26D-1D4A-4108-B1C5-8D989EB4ED70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A9F26D-1D4A-4108-B1C5-8D989EB4ED70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A9F26D-1D4A-4108-B1C5-8D989EB4ED70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE01EB58-1F21-445E-80A8-EA8BC58E93F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE01EB58-1F21-445E-80A8-EA8BC58E93F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE01EB58-1F21-445E-80A8-EA8BC58E93F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01EB58-1F21-445E-80A8-EA8BC58E93F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
